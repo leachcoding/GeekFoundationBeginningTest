@@ -9,9 +9,13 @@ Hello everyone, welcome to your first assignment! This assignment is simply to g
 3. You should see a success message akin to 
 
 Cloning into 'GeekFoundationBeginningTest'...
+
 remote: Enumerating objects: 3, done.
+
 remote: Counting objects: 100% (3/3), done.
+
 remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+
 Receiving objects: 100% (3/3), done.
 
 If so, you are cloned. At this point, please cd into that same repository 'GeekFoundationBeginningTest'
@@ -39,7 +43,9 @@ with your own first-last name in the ''. Once this is done, please verify you ar
 6. Once finished, we are ready to push our code back up to github and create a pull request. The following commands are going to be some of the most used of your git career.
 
 git add .
+
 git commit -m "Useful message of feature here"
+
 git push -u origin jay-leach
 
 where the useful message should be descriptive, concise, and relevant to what you have done for a feature and where 'branch-name' is your branch name. There may be struggles here, and errors. That is okay and expected. Rather than give the solution, for those having issues, I wanted to work in discord to help answer if questions were had, and I wanted to work on the exercise of 'googling' another amazing skill that will help your development game. Stack Overflow and other associated forums are a main staple in my developer tabs I keep pretty nearly constantly open. This exercise will expound upon that. 
