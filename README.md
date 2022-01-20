@@ -34,7 +34,9 @@ git branch --show-current
 
 This command shows the current branch you are currently on. This is useful if you are ever unsure. You should currently be on 'main', which is the default branch often used. However, once verified, we want to switch to our own. Please do so with:
 
-git branch -checkout 'jay-leach'
+git checkout 'jay-leach' (SWITCHING FROM A EXISTING BRANCH)
+
+git checkout -b 'jay-leach-test' (SWITCHING TO A NEW BRANCH)
 
 with your own first-last name in the ''. Once this is done, please verify you are on your own branch with the prior --show-current command. More branching information can be found here: https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell . 
 
@@ -56,3 +58,4 @@ where the useful message should be descriptive, concise, and relevant to what yo
 
 
 # NAMES HERE
+Jay Leach
